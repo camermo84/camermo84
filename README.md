@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camermo84/camermo84/main/banner.png" alt="Camilo Motta - GitHub Banner" width="100%" />
+  <img src="https://github.com/camermo84/camermo84/blob/main/Foto_banner_LinkedIn.jpeg?raw=true" alt="Camilo Motta - GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
