@@ -1,21 +1,80 @@
-# 👋 ¡Hola! Soy Camilo Motta (Camermo84)
+<!-- Header Banner -->
 
-🎯 **Desarrollador Junior** con interés en **automatización, DevOps, inteligencia artificial** y desarrollo de aplicaciones web.  
-💻 Actualmente aprendiendo y construyendo proyectos en **AWS, Docker, WSO2, Zabbix y n8n**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/camermo84/camermo84/main/banner.png" alt="Camilo Motta - GitHub Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=200&section=header&text=Camilo%20Motta%20(@camermo84)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<h3 align="center">💻 Junior Developer | 🚀 Passionate about Technology, Automation & AI</h3>
+
+---
+
+### 👋 Hi there, I’m **Camilo Motta**
+I’m a **Hardware Engineer & Junior Software Developer** working on projects that combine **cloud infrastructure, automation, data analytics, and identity management**.  
+I enjoy bringing hardware, software, and data together to build real-world solutions.
 
 ---
 
-### 🚀 Tecnologías y herramientas que uso:
-- 🐍 Python | 🐋 Docker | ☁️ AWS | ⚙️ Zabbix | 🔐 WSO2 Identity Server  
-- 💡 HTML | CSS | JavaScript | Bootstrap | Node.js  
-- 📊 Power BI | HubSpot API | REST APIs
+### 🧠 Areas I work on
+- ⚙️ **Process automation** with n8n, HubSpot API, and GLPI  
+- ☁️ **Cloud & Infrastructure** (AWS / Docker / Linux)  
+- 📊 **Data analytics & dashboards** (Power BI, HubSpot CRM)  
+- 🔐 **Identity and access management** (WSO2 Identity Server)  
+- 💳 **Hardware integration** for ID printers and laminators
 
 ---
 
-### 📚 Proyectos destacados:
-- 🖥️ **Automatización de soporte técnico** con n8n y HubSpot.  
-- 🧠 **Chatbot de IA** para asistencia técnica de impresoras y laminadoras.  
-- 📈 **Dashboards de mantenimiento** en Power BI conectados a HubSpot CRM.  
-- 🪪 **Gestión de licencias de conducción** con GLPI y Moodle en AWS.
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode" />
+</p>
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camermo84&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camermo84&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🌍 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/camilo-motta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:camermo84@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/camermo84" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Highlighted Projects
+| Project | Description | Technologies |
+|----------|--------------|---------------|
+| 🖥️ **Tech Support Automation** | Automated workflows that respond to HubSpot tickets using n8n. | n8n, Node.js, HubSpot API |
+| 🤖 **AI Support Agent** | Chatbot that assists technicians with smart troubleshooting answers. | Python, LangChain |
+| 📊 **Maintenance Dashboard** | Real-time Power BI dashboard connected to HubSpot CRM. | Power BI, REST API |
+| 🔐 **WSO2 Training Portal** | Authentication system for technicians and government staff. | WSO2 IS, Moodle, Docker |
+
+---
+
+### ✨ About Me
+- 📍 Based in Latin America 🌎  
+- 💬 Always learning about **AI, automation, and cloud systems**  
+- 🎶 In my free time, I compose and produce salsa music  
+- 🧩 Goal: Grow into a **full-stack solutions architect** combining creativity & technology
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
+</p>
