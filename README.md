@@ -13,70 +13,75 @@
 
 ---
 
-### 👋 Hi there, I’m **Camilo Motta**
-I’m a **Hardware Engineer & Junior Software Developer** with 15 years of experience working on projects that combine **hardware, software, and data together, to build real-world solutions**, through developing deep knowledge in ** APIs development and networking, Data bases administration, multiple servers management, cloud infrastructure, automation, IA tools (training and testing models) and data analytics, identity management, among others**.  
+# 👋 Hi, I'm Camilo Ernesto Motta Zambrano
 
+🚀 **DevOps & Cloud Engineer | System Integrator | UI Prototyper**
 
----
-
-### 🧠 Areas I work on
-- ⚙️ **Process automation** with n8n, HubSpot API, and GLPI  
-- ☁️ **Cloud & Infrastructure** (AWS / Azure / Docker / Linux / Windows server / Red Hat )  
-- 📊 **Data analytics & dashboards** (Power BI, HubSpot and GLPI CRM)  
-- 🔐 **Identity and access management** (WSO2 Identity Server, WSO2 Appi Manager )  
-- 💳 **Hardware integration** for ID printers and laminators
-- ⚛️ **Development of APIs, Services, web and desktop apps** (Python, C#, C++, PHP)
-- 👷‍♂️ **Monitoring software tools** (Zabbix)
----
-
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure,C#" />
-</p>
+I’m passionate about deploying, configuring, and customizing web-based enterprise solutions that solve real operational challenges.  
+My work bridges the gap between **infrastructure, automation, and design**, enabling cloud-hosted platforms to run efficiently and align with business needs.
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camermo84&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camermo84&layout=compact&theme=tokyonight" height="165" />
-</p>
+## 💼 Professional Experience
+
+**DevOps & Cloud Engineer | G.E.T Group LATAM**  
+*2023 – Present*
+
+- Deployment and configuration of enterprise web solutions (GLPI, Zabbix, n8n, Moodle) in **AWS** and **Azure** environments.  
+- Installation and maintenance of servers, services, and required dependencies to ensure smooth operation of each platform.  
+- Setup and management of **MariaDB databases**, user permissions, and secure access for multi-site teams.  
+- Automation of **daily backups** and **data extraction** processes to feed Power BI dashboards and analytics tools.  
+- Customization of **front-end branding** and color schemes to align with the company’s visual identity.  
+- **Integration of systems** to centralize monitoring, ticketing, and workflow management between tools like Zabbix, GLPI, and HubSpot.  
+- Creation of **interactive dashboards** and performance indicators for technical and management reporting.  
+- Design and **UI/UX mockups** for web and mobile applications using **Figma** and **Adobe Illustrator** to guide front-end development.
 
 ---
 
-### 🌍 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/camilo-motta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:camermo84@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/camermo84" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🧩 Skills & Tools
+
+**Cloud & Infrastructure:**  
+AWS EC2 · Azure Virtual Machines · Docker · Linux (Ubuntu, Red Hat)  
+
+**Applications Deployed:**  
+GLPI · Zabbix · n8n · Moodle · WSO2 Identity Server  
+
+**Databases & Automation:**  
+MariaDB · Power BI · Bash scripting · Cron jobs · API integrations  
+
+**UI/UX & Design Tools:**  
+Figma · Adobe Illustrator · Bootstrap · HTML · CSS · JavaScript  
+
+**Version Control & Collaboration:**  
+Git · GitHub · GitHub Pages · Markdown  
 
 ---
 
-### 🚀 Highlighted Projects
-| Project | Description | Technologies |
-|----------|--------------|---------------|
-| 🖥️ **Tech Support Automation** | Automated workflows that respond to HubSpot tickets using n8n. | n8n, Node.js, HubSpot API |
-| 🤖 **AI Support Agent** | Chatbot that assists technicians with smart troubleshooting answers. | Python, LangChain |
-| 📊 **Maintenance Dashboard** | Real-time Power BI dashboard connected to HubSpot CRM. | Power BI, REST API |
-| 🔐 **WSO2 Training Portal** | Authentication system for technicians and government staff. | WSO2 IS, Moodle, Docker |
+## 🧠 What I’m Learning
+- Improving my automation pipelines with Docker Compose and CI/CD workflows  
+- Expanding my knowledge in web development and API integrations  
+- Exploring advanced Power BI data models for operational analytics  
 
 ---
 
-### ✨ About Me
-- 📍 Based in Latin America 🌎  
-- 💬 Always learning about **AI, automation, and cloud systems**  
-- 🎶 In my free time, I compose and produce salsa music  
-- 🧩 Goal: Grow into a **full-stack solutions architect** combining creativity & technology
+## 🌐 Projects
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| **GLPI Cloud Deployment** | IT Service Management system configured on AWS with MariaDB and automated backups | AWS, MariaDB, PHP |
+| **Zabbix Monitoring Platform** | Complete monitoring solution for distributed infrastructure and APIs | Zabbix, Docker, Nginx |
+| **n8n Workflow Automation** | Automated workflows connecting internal systems and Power BI dashboards | n8n, Node.js |
+| **Training Portal (Moodle)** | Cloud-based eLearning platform for internal and government training programs | Moodle, PHP, MariaDB |
+| **UI Mockups** | Web and mobile prototypes designed for internal apps and dashboards | Figma, Adobe Illustrator |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=120&section=footer" />
-</p>
+## 📫 Contact
+
+📧 **Email:** camilo.motta@getgroup.com  
+💼 **LinkedIn:** [linkedin.com/in/camermo84](https://linkedin.com/in/camermo84)  
+💻 **GitHub:** [github.com/camermo84](https://github.com/camermo84)  
+
+---
+
+⭐ *“Turning technical complexity into simple, elegant, and reliable solutions.”*
