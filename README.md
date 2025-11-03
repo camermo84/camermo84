@@ -20,16 +20,16 @@ I’m a **Hardware Engineer & Junior Software Developer** with 15 years of exper
 
 ### 🧠 Areas I work on
 - ⚙️ **Process automation** with n8n, HubSpot API, and GLPI  
-- ☁️ **Cloud & Infrastructure** (AWS / Docker / Linux)  
-- 📊 **Data analytics & dashboards** (Power BI, HubSpot CRM)  
-- 🔐 **Identity and access management** (WSO2 Identity Server)  
+- ☁️ **Cloud & Infrastructure** (AWS / Azure / Docker / Linux / Windows server / Red Hat )  
+- 📊 **Data analytics & dashboards** (Power BI, HubSpot and GLPI CRM)  
+- 🔐 **Identity and access management** (WSO2 Identity Server, WSO2 Appi Manager )  
 - 💳 **Hardware integration** for ID printers and laminators
 
 ---
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure,zabbix" />
 </p>
 
 ---
