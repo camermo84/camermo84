@@ -13,7 +13,7 @@
 ---
 
 ### 👋 Hi there, I’m **Camilo Motta**
-I’m a **Hardware Engineer & Junior Software Developer** with 15 years of experience working on projects that combine **hardware, software, and data together, to build real-world solutions**, through developing deep knowledge in ** APIs development and networking, Data bases administration, multiple servers management, cloud infrastructure, automation, IA tools (training ) data analytics, identity management, among others**.  
+I’m a **Hardware Engineer & Junior Software Developer** with 15 years of experience working on projects that combine **hardware, software, and data together, to build real-world solutions**, through developing deep knowledge in ** APIs development and networking, Data bases administration, multiple servers management, cloud infrastructure, automation, IA tools (training and testing models) and data analytics, identity management, among others**.  
 
 
 ---
@@ -29,7 +29,7 @@ I’m a **Hardware Engineer & Junior Software Developer** with 15 years of exper
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure" />
 </p>
 
 ---
