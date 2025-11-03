@@ -24,12 +24,13 @@ I’m a **Hardware Engineer & Junior Software Developer** with 15 years of exper
 - 📊 **Data analytics & dashboards** (Power BI, HubSpot and GLPI CRM)  
 - 🔐 **Identity and access management** (WSO2 Identity Server, WSO2 Appi Manager )  
 - 💳 **Hardware integration** for ID printers and laminators
-
+- ⚛️ **Development of APIs, Services, web and desktop apps** (Python, C#, C++, PHP)
+- 👷‍♂️ **Monitoring software tools** (Zabbix)
 ---
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure,zabbix" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,aws,docker,linux,mysql,react,git,github,vscode,azure,C#" />
 </p>
 
 ---
