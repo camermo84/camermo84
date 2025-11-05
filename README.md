@@ -7,7 +7,7 @@
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 
-<h3 align="center">💻 Electronic Engineer and Junior Developer | 🚀 Experienced and pasionate about Technology, Automation & AI</h3>
+<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about Technology, Automation & AI</h3>
 
 ---
 
@@ -20,22 +20,25 @@ My work bridges the gap between **infrastructure, automation, and design**, enab
 
 ---
 
-## 💼 Professional Experience
+## 💼 Current Professional Experience
 
-**DevOps & Cloud Engineer | G.E.T Group LATAM**  
+**Hardware & Software Engineer (DevOps, Cloud, and software Engineering to deploy complete entreprise solutions)**  
 *2023 – Present*
 
-- Deployment and configuration of enterprise web solutions (GLPI, Zabbix, n8n, Moodle) in **AWS** and **Azure** environments.  
-- Installation and maintenance of servers, services, and required dependencies to ensure smooth operation of each platform.  
-- Setup and management of **MariaDB databases**, user permissions, and secure access for multi-site teams.  
+- Deployment and configuration of enterprise web solutions (GLPI, Zabbix, n8n, Moodle) in **AWS**, **Azure**, and **on-premise** environments.  
+- Launching and maintenance of servers instances with required dependencies to ensure smooth operation of each platform.  
+- Setup and management of **MariaDB and MS SQL server databases**, user permissions, and secure access for multi-site teams.  
 - Automation of **daily backups** and **data extraction** processes to feed Power BI dashboards and analytics tools.  
-- Customization of **front-end branding** and color schemes to align with the company’s visual identity.  
-- **Integration of systems** to centralize monitoring, ticketing, and workflow management between tools like Zabbix, GLPI, and HubSpot.  
+- Customization of **front-end branding** using html5, css3, javascript coding, to align with the company’s visual identity.  
+- **Integration of systems** through APIs developments in order to centralize monitoring, authentication, ticketing, and workflow management between tools like Zabbix, GLPI, and HubSpot, among others.  
 - Creation of **interactive dashboards** and performance indicators for technical and management reporting.  
 - **Design and UI/UX mockups** for web and mobile applications using **Figma** and **Adobe Illustrator** to guide front-end development.  
-- **Development of desktop applications in C#** using vendor-provided SDKs to control and monitor hardware devices (e.g., printers, laminators) through computer interfaces.  
+- **Development of desktop applications in C# and python** using vendor-provided SDKs to control and monitor hardware devices (e.g., printers, laminators) through computer interfaces.  
 - **Automation of workflows** in **HubSpot** and **n8n**, streamlining client support operations and internal processes within the company.  
-
+- **Coordination of technical teams** prior and during presentation of demos, POCs, etc, to achieve sales.
+- **Mobile and web apps design** using figma and adobe ilustrator, to elabore
+- **implementation and deployment of web portals** for training partners and technical staff.
+- **Integration of internal and third parties SDKs** in products that are interesting for clients.  
 ---
 
 ## 🧩 Skills & Tools
@@ -60,11 +63,11 @@ Git · GitHub · GitHub Pages · Markdown
 
 ---
 
-## 🧠 What I’m Learning
+## 🧠 What I’m Learning or preparing
 - Building more advanced automation pipelines with Docker Compose and CI/CD workflows  
 - Expanding desktop app development with .NET and hardware SDK integration  
 - Exploring advanced Power BI data models for operational analytics  
-
+- Preparing for soon certification exam in AWS Solutions Architect
 ---
 
 ## 🌐 Projects
@@ -77,13 +80,14 @@ Git · GitHub · GitHub Pages · Markdown
 | **Desktop App for Hardware Control** | Custom C# applications using SDKs to monitor and control printers and laminators | C#, .NET Framework |
 | **Training Portal (Moodle)** | Cloud-based eLearning platform for internal and government training programs | Moodle, PHP, MariaDB |
 | **UI Mockups** | Web and mobile prototypes designed for internal apps and dashboards | Figma, Adobe Illustrator |
-
+| **Wso2 Identity server deployment** | Deployment of web solution for users access management in production and testing environments | Java, web Full Stack development |
+| **Wso2 API Manager deployment** | Deployment of web solution for creating, publishing, protecting, monitoring, and versioning of APIs | Java, web Full Stack development |
 ---
 
 ## 📫 Contact
 
-📧 **Email:** camilo.motta@getgroup.com  
-💼 **LinkedIn:** [linkedin.com/in/camermo84](https://linkedin.com/in/camermo84)  
+📧 **Email:** camermo@gmail.com
+💼 **LinkedIn:** [linkedin.com/in/camermo84]([(https://www.linkedin.com/in/camilo-ernesto-motta-zambrano-8514168b/)])  
 💻 **GitHub:** [github.com/camermo84](https://github.com/camermo84)  
 
 ---
