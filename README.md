@@ -7,7 +7,7 @@
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 
-<h3 align="center">💻 Junior Developer | 🚀 Passionate about Technology, Automation & AI</h3>
+<h3 align="center">💻 Electronic Engineer and Junior Developer | 🚀 Experienced and pasionate about Technology, Automation & AI</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 🚀 **DevOps & Cloud Engineer | Automation & Integration Specialist | UI Prototyper**
 
-I’m passionate about deploying, automating, and integrating enterprise web and desktop solutions that solve real operational challenges.  
+I’m passionate about deploying, automating, and integrating Hardware and enterprise web / desktop solutions that solve real operational challenges.  
 My work bridges the gap between **infrastructure, automation, and design**, enabling cloud-hosted platforms and hardware systems to run efficiently and align with business needs.
 
 ---
