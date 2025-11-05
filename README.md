@@ -4,6 +4,29 @@
   <img src="https://github.com/camermo84/camermo84/blob/main/Foto_banner_LinkedIn.jpeg?raw=true" alt="Camilo Motta - GitHub Banner" width="100%" />
 </p>
 
+
+<p align="center">
+
+  <!-- Social / Network Badges -->
+  <a href="https://github.com/camermo84">
+    <img src="https://img.shields.io/github/followers/camermo84?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/camermo84">
+    <img src="https://img.shields.io/github/stars/camermo84?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://www.linkedin.com/in/camermo84/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="mailto:camermo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-camermo@gmail.com-red?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+  </a>
+  <a href="https://www.youtube.com/@camermo84">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCIEgHAIvatSRZK4rfcdNRg?style=social" alt="YouTube Subscribers" />
+  </a>
+
+</p>
+
+
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 <h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and passionate about AI, Integration and Automation of technologies</h3>
