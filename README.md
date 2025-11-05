@@ -25,7 +25,7 @@ My work bridges the gap between **infrastructure, automation, and design**, enab
 **Hardware & Software Engineer (DevOps, Cloud, and software Engineering to deploy complete entreprise solutions)**  
 *2023 – Present*
 
-- Use of modern AI tools for quick software developments: **Gemini, ChatGpt, notebookLM** for prompting engineering. **Firebase Studio** for rapid complete quick solutions with data bases from graphic ideas. **Claude Code** for Quick Agent-Based deployments. **Codex & Agents.md** for quick understanding of complete solution packages already installed. 
+- Use of modern AI tools for quick software developments: **Gemini, ChatGpt, notebookLM** for prompting engineering. **Firebase Studio** for rapid complete quick solutions with data bases from graphic ideas. **Claude Code** for Quick Agent-Based deployments. **Codex & Agents.md** for quick understanding of complete solution packages already installed. **n8n** for automation of customer support processes. 
 - Deployment and configuration of enterprise web solutions (GLPI, Zabbix, n8n, Moodle) in **AWS**, **Azure**, and **on-premise** environments.  
 - Launching and maintenance of servers instances **(Linux, Red Hat, WINDOWS SERVER )** with required dependencies to ensure smooth operation of each platform.  
 - Setup and management of **MariaDB and MS SQL server databases**, user permissions, and secure access for multi-site teams.  
