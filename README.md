@@ -7,7 +7,7 @@
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 
-<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about Technology, Automation & AI</h3>
+<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about Technologies, Automation & AI</h3>
 
 ---
 
@@ -25,8 +25,9 @@ My work bridges the gap between **infrastructure, automation, and design**, enab
 **Hardware & Software Engineer (DevOps, Cloud, and software Engineering to deploy complete entreprise solutions)**  
 *2023 – Present*
 
+- Use of modern AI tools for quick software developments: **Gemini, ChatGpt, notebookLM** for prompting engineering. **Firebase Studio** for rapid complete quick solutions with data bases from graphic ideas. **Claude Code** for Quick Agent-Based deployments. **Codex & Agents.md** for quick understanding of complete solution packages already installed. 
 - Deployment and configuration of enterprise web solutions (GLPI, Zabbix, n8n, Moodle) in **AWS**, **Azure**, and **on-premise** environments.  
-- Launching and maintenance of servers instances with required dependencies to ensure smooth operation of each platform.  
+- Launching and maintenance of servers instances **(Linux, Red Hat, WINDOWS SERVER )** with required dependencies to ensure smooth operation of each platform.  
 - Setup and management of **MariaDB and MS SQL server databases**, user permissions, and secure access for multi-site teams.  
 - Automation of **daily backups** and **data extraction** processes to feed Power BI dashboards and analytics tools.  
 - Customization of **front-end branding** using html5, css3, javascript coding, to align with the company’s visual identity.  
@@ -38,8 +39,7 @@ My work bridges the gap between **infrastructure, automation, and design**, enab
 - **Coordination of technical teams** prior and during presentation of demos, POCs, etc, to achieve sales.
 - **Mobile and web apps design** using figma and adobe ilustrator, to elabore
 - **implementation and deployment of web portals** for training partners and technical staff.
-- **Integration of internal and third parties SDKs** in products that are interesting for clients.  
----
+- **Integration of internal and third parties SDKs** in products that are interesting for clients.
 
 ## 🧩 Skills & Tools
 
@@ -47,7 +47,7 @@ My work bridges the gap between **infrastructure, automation, and design**, enab
 AWS EC2 · Azure Virtual Machines · Docker · Linux (Ubuntu, Red Hat)  
 
 **Applications Deployed:**  
-GLPI · Zabbix · n8n · Moodle · WSO2 Identity Server  
+GLPI · Zabbix · n8n · Moodle · WSO2 Identity Server · WSO2 API Manager 
 
 **Databases & Automation:**  
 MariaDB · Power BI · Bash scripting · Cron jobs · API integrations · HubSpot Workflows · n8n  
@@ -55,8 +55,8 @@ MariaDB · Power BI · Bash scripting · Cron jobs · API integrations · HubSpo
 **Development & SDK Integration:**  
 C# · .NET Framework · Hardware SDKs (Printers, Laminators) · REST APIs  
 
-**UI/UX & Design Tools:**  
-Figma · Adobe Illustrator · Bootstrap · HTML · CSS · JavaScript  
+**Front & Design and code Tools:**  
+Figma · Adobe Illustrator · HTML · CSS · JavaScript  
 
 **Version Control & Collaboration:**  
 Git · GitHub · GitHub Pages · Markdown  
@@ -67,7 +67,7 @@ Git · GitHub · GitHub Pages · Markdown
 - Building more advanced automation pipelines with Docker Compose and CI/CD workflows  
 - Expanding desktop app development with .NET and hardware SDK integration  
 - Exploring advanced Power BI data models for operational analytics  
-- Preparing for soon certification exam in AWS Solutions Architect
+- Preparing for soon certification exam in AWS Solutions Architect Associate having to
 ---
 
 ## 🌐 Projects
