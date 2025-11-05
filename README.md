@@ -63,11 +63,12 @@ Git · GitHub · GitHub Pages · Markdown
 
 ---
 
-## 🧠 What I’m Learning or preparing
+## 🧠 What I’m Learning or preparing for
 - Building more advanced automation pipelines with Docker Compose and CI/CD workflows  
 - Expanding desktop app development with .NET and hardware SDK integration  
 - Exploring advanced Power BI data models for operational analytics  
-- Preparing for soon certification exam in AWS Solutions Architect Associate having used most of these solutions in test and production environments for real solutions. 
+- Preparing for soon certification exam in AWS Solutions Architect Associate having used most of these solutions in test and production environments for real solutions.
+- New technologies and tools for training, tunning, testing, and publishing Machine learning models in cloud infraestructure. 
 ---
 
 ## 🌐 Projects
