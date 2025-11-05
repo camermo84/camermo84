@@ -1,12 +1,10 @@
 <!-- Header Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004e92,100:000428&height=200&section=header&text=Camilo%20Motta%20(@camermo84)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-<p align="center">
   <img src="https://github.com/camermo84/camermo84/blob/main/Foto_banner_LinkedIn.jpeg?raw=true" alt="Camilo Motta - GitHub Banner" width="100%" />
 </p>
 
+<h2 align="center">Camilo Motta (camermo84)</h2>
 
 
 <h3 align="center">💻 Junior Developer | 🚀 Passionate about Technology, Automation & AI</h3>
