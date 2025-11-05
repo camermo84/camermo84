@@ -7,7 +7,7 @@
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 
-<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about Technologies, Automation & AI</h3>
+<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about AI and Integration and Automation of technologies</h3>
 
 ---
 
@@ -67,7 +67,7 @@ Git · GitHub · GitHub Pages · Markdown
 - Building more advanced automation pipelines with Docker Compose and CI/CD workflows  
 - Expanding desktop app development with .NET and hardware SDK integration  
 - Exploring advanced Power BI data models for operational analytics  
-- Preparing for soon certification exam in AWS Solutions Architect Associate having to
+- Preparing for soon certification exam in AWS Solutions Architect Associate having used most of these solutions in test and production environments for real solutions. 
 ---
 
 ## 🌐 Projects
