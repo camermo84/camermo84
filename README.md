@@ -7,7 +7,7 @@
 <h2 align="center">Camilo Motta (camermo84)</h2>
 
 
-<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about AI and Integration and Automation of technologies</h3>
+<h3 align="center">💻 Electronic and Software Engineer | 🚀 Experienced and pasionate about AI, Integration and Automation of technologies</h3>
 
 ---
 
