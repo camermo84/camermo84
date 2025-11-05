@@ -14,7 +14,7 @@
   <a href="https://github.com/camermo84">
     <img src="https://img.shields.io/github/stars/camermo84?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
   </a>
-  <a href="https://www.linkedin.com/in/camermo84/">
+  <a href="https://www.linkedin.com/in/camilo-ernesto-motta-zambrano-8514168b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
   </a>
   <a href="mailto:camermo@gmail.com">
